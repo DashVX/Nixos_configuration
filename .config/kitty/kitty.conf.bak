@@ -1,0 +1,29 @@
+
+include everforest.conf 
+font_family   JetBrainsMonoNerdFont
+bold_font     JetBrainsMonoNerdFont
+italic_font   JetBrainsMonoNerdFont
+bold_italic_font JetBrainsMonoNerdFont
+
+font_size 18 
+modify_font cell_height 100%
+
+cursor_shape block 
+
+cursor_trail 1 
+cursor_trail_decay 0.2 0.5
+
+mouse_hide_wait 1.0
+
+detect_urls yes
+
+strip_trailing_spaces smart
+
+sync_to_monitor yes 
+
+confirm_os_window_close -1
+
+window_title_bar top
+window_margin_width 13 
+
+background_opacity 1

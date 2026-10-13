@@ -1,0 +1,5 @@
+singleton Everforest 1.0 Everforest.qml
+singleton ClockData 1.0 ClockData.qml
+CpuData 1.0 CpuData.qml
+RamData 1.0 RamData.qml
+DiskData 1.0 DiskData.qml
